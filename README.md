@@ -147,7 +147,7 @@ The application will be available at the local development URL provided by Vite.
 
 ---
 
-## 🔐 Environment Variables
+##  Environment Variables
 
 If environment variables are required, create a `.env` file inside the `frontend` directory.
 
@@ -161,7 +161,7 @@ Use the provided example file as a reference:
 
 ---
 
-## 🎨 Application Modules
+##  Application Modules
 
 | Module               | Description                           |
 | -------------------- | ------------------------------------- |
@@ -177,7 +177,7 @@ Use the provided example file as a reference:
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 * Backend API and database integration
 * Real-time team collaboration
@@ -190,15 +190,15 @@ Use the provided example file as a reference:
 
 ---
 
-## 📌 Project Status
+##  Project Status
 
-**🚧 Currently under active development**
+** Currently under active development**
 
 The frontend foundation and major application modules have been implemented. Additional backend services, integrations, and production-level features can be added as the platform evolves.
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Isha Sharma**
 
@@ -209,7 +209,7 @@ Chitkara University
 
 ---
 
-## 📄 License
+##  License
 
 This project is currently intended for educational and development purposes.
 
