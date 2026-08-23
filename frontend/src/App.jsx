@@ -41,7 +41,8 @@ function App() {
 
   return (
     <>
-      {!isDashboardRoute && <Navbar />}
+      {/* {!isDashboardRoute && <Navbar />} */}
+      {!isDashboardRoute && <Navbar user={user} onLogout={handleLogout} />}
 
       <Routes>
         {/* Public pages */}
