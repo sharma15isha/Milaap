@@ -208,6 +208,12 @@ Chitkara University
 
 * GitHub: [@sharma15isha](https://github.com/sharma15isha)
 
+ **Aditi** — Developer
+
+
+B.Tech Computer Science & Engineering
+Chitkara University
+  - GitHub: [@aditiis07](https://github.com/aditiis07)
 ---
 
 ##  License
