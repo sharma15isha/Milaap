@@ -1,5 +1,8 @@
 # Milaap — Student Innovation & Collaboration Platform
 
+
+🔗 **Live Demo:** https://milaap-nu.vercel.app/
+
 Milaap is a **Student Innovation & Collaboration Platform** designed to bring hackathons, innovation events, team formation, project submissions, evaluations, and student progress into one centralized platform.
 
 It helps students discover opportunities, connect with teammates based on skills, participate in events, submit projects, and track their learning journey — while providing organizers and judges with dedicated tools to manage events and evaluate submissions.
